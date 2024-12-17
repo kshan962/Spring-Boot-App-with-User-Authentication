@@ -1,4 +1,4 @@
-==Spring Boot App with User Authentication
+Spring Boot App with User Authentication
 
 
 
