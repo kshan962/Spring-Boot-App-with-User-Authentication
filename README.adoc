@@ -1,11 +1,11 @@
-:spring_boot_version: current
+==Spring Boot App with User Authentication
 
 
 
 Built a Spring MVC application that secures the page with a login form that is
 backed by a fixed list of users.
 
-== What I used
+What I used
 
 java
 Springboot
